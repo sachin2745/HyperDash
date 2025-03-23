@@ -5,7 +5,7 @@ const Section8 = () => {
     <>
       <section className="bg-primary py-10 font-Poppins">
         <div className="container  mx-auto max-w-[77rem] px-5 sm:px-0">
-          <div className="flex flex-col md:flex-row items-center justify-center gap-20">
+          <div className="flex flex-col md:flex-row items-center justify-center gap-10 md:gap-20">
             <div className="w-full md:w-1/3 text-center">
               <img
                 src="/img1.png"
@@ -13,7 +13,7 @@ const Section8 = () => {
                 loading="lazy"
                 className="w-full h-[310px] object-cover rounded-none shadow-lg hover:scale-105 transform-gpu transition-all duration-300"
               />
-              <p className="mt-4 text-2xl text-white font-normal">
+              <p className="mt-4 text-xl md:text-2xl text-white font-normal">
                 Impeccable Design
               </p>
             </div>
@@ -24,7 +24,7 @@ const Section8 = () => {
                 loading="lazy"
                 className="w-full h-full object-cover rounded-none shadow-lg hover:scale-105 transition-all duration-300"
               />
-              <p className="mt-4 text-2xl text-white font-normal">
+              <p className="mt-4 text-xl md:text-2xl text-white font-normal">
                 Elevated Performance
               </p>
             </div>
@@ -35,7 +35,7 @@ const Section8 = () => {
                 loading="lazy"
                 className="w-full h-full object-cover rounded-none shadow-lg hover:scale-105 transition-all duration-300"
               />
-              <p className="mt-4 text-2xl text-white font-normal">
+              <p className="mt-4 text-xl md:text-2xl text-white font-normal">
                 Great Interiors
               </p>
             </div>
@@ -74,7 +74,7 @@ const Section8 = () => {
         </div>
       </section>
 
-      <section className="bg-primary py-10 font-Poppins">
+      <section className="bg-primary pb-10 md:pt-10 font-Poppins">
         <div className="container mx-auto max-w-[77rem] px-4">
           <div className="flex flex-col md:flex-row-reverse items-center md:items-start justify-center gap-10 md:gap-40">
             <div className="w-full md:w-[50%] text-center">
