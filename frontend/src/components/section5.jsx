@@ -40,7 +40,7 @@ const Section5 = () => {
     </section>
 
     <section className="font-Poppins block sm:hidden">
-      <div className="container mx-auto min-h-[60vh] px-5 py-10 flex flex-col md:flex-row items-center justify-center">
+      <div className="container mx-auto min-h-[60vh] bg-white px-5 py-10 flex flex-col md:flex-row items-center justify-center">
         <div className="w-full md:w-1/2 flex flex-col items-center md:items-start text-center md:text-left md:ps-10 lg:ps-36">
           <h2 className="text-4xl sm:text-5xl lg:text-6xl font-medium text-[#191919] mb-4 sm:mb-6">
             Air X
