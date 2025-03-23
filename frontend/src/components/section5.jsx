@@ -62,7 +62,7 @@ const Section5 = () => {
         </div>
     
         <div className="w-full md:w-1/2 flex justify-center md:justify-end mt-8 md:mt-0">
-          <img src="/Features2.1.png" alt="Features2.1" className="w-full max-w-md lg:max-w-lg object-cover object-center" />
+          <img src="/Features2.1.png" loading="lazy" alt="Features2.1" className="w-full max-w-md lg:max-w-lg object-cover object-center" />
         </div>
       </div>
     </section>

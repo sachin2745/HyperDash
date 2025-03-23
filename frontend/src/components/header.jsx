@@ -14,7 +14,7 @@ const Header = () => {
           </nav>
 
           <a className="flex items-center">
-            <img src="/Logo.png" alt="HyperDash_Logo" className="h-9" />
+            <img src="/Logo.png" alt="HyperDash_Logo" loading="lazy" className="h-9" />
           </a>
 
           <div className="hidden md:flex gap-6 lg:gap-16 items-center">

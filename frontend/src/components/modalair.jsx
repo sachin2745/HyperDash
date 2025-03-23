@@ -10,6 +10,7 @@ const ModalAir = () => {
               <img
                 src="/Model-X-Specs-Hero-Desktop-LHD.png"
                 className="h-full lg:h-screen w-full object-cover object-center "
+                loading="lazy"
                 alt=""
               />
             </div>

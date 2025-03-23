@@ -10,6 +10,7 @@ const Section8 = () => {
               <img
                 src="/img1.png"
                 alt="Features 1"
+                loading="lazy"
                 className="w-full h-[310px] object-cover rounded-none shadow-lg hover:scale-105 transform-gpu transition-all duration-300"
               />
               <p className="mt-4 text-2xl text-white font-normal">
@@ -20,6 +21,7 @@ const Section8 = () => {
               <img
                 src="/PerformanceImg.png"
                 alt="Features 2"
+                loading="lazy"
                 className="w-full h-full object-cover rounded-none shadow-lg hover:scale-105 transition-all duration-300"
               />
               <p className="mt-4 text-2xl text-white font-normal">
@@ -30,6 +32,7 @@ const Section8 = () => {
               <img
                 src="/InteriorsImg.png"
                 alt="Features 3"
+                loading="lazy"
                 className="w-full h-full object-cover rounded-none shadow-lg hover:scale-105 transition-all duration-300"
               />
               <p className="mt-4 text-2xl text-white font-normal">
@@ -47,6 +50,7 @@ const Section8 = () => {
               <img
                 src="/Story2Img.png"
                 alt="Features 1"
+                loading="lazy"
                 className="w-full aspect-square object-cover rounded-none shadow-lg transition-transform duration-300 hover:scale-105 hover:shadow-xl"
               />
             </div>
@@ -55,6 +59,7 @@ const Section8 = () => {
               <img
                 src="/AirXimg.png"
                 alt="Features 3"
+                loading="lazy"
                 className="w-full  object-cover rounded-none shadow-lg transition-transform duration-300 hover:scale-105 hover:shadow-xl"
               />
               <h3 className="text-3xl text-white font-normal">
@@ -76,6 +81,7 @@ const Section8 = () => {
               <img
                 src="/imgRightLarge.png"
                 alt="Features 1"
+                loading="lazy"
                 className="w-full h-auto object-cover rounded-none shadow-lg hover:-translate-y-3 transition duration-300 ease-in-out"
               />
             </div>
@@ -85,21 +91,25 @@ const Section8 = () => {
                 <img
                   src="/DesignImg.png"
                   alt="Features 3"
+                  loading="lazy"
                   className="w-full h-full aspect-square object-cover rounded-none shadow-lg hover:-translate-y-3 transition duration-300 ease-in-out"
                 />
                 <img
                   src="/img2.png"
                   alt="Features 3"
+                  loading="lazy"
                   className="w-full h-full aspect-square object-cover rounded-none shadow-lg hover:-translate-y-3 transition duration-300 ease-in-out"
                 />
                 <img
                   src="/img3.png"
                   alt="Features 3"
+                  loading="lazy"
                   className="w-full h-full aspect-square object-cover rounded-none shadow-lg hover:-translate-y-3 transition duration-300 ease-in-out"
                 />
                 <img
                   src="/img4.png"
                   alt="Features 3"
+                  loading="lazy"
                   className="w-full h-full aspect-square object-cover rounded-none shadow-lg hover:-translate-y-3 transition duration-300 ease-in-out"
                 />
               </div>

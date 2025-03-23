@@ -93,6 +93,7 @@ const Section10 = () => {
                           alt="content"
                           className="object-cover object-center h-full aspect-square w-96 "
                           src={`/${img}`}
+                          loading="lazy"
                         />
                         <h4 className="text-white text-lg font-light my-5">Lorem Ipsum</h4>
                         <p className="text-white text-sm font-light mb-5">

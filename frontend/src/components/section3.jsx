@@ -13,6 +13,7 @@ const Section3 = () => {
               src="/Features2.png"
               alt="Features 2"
               className="w-full h-auto object-cover rounded-lg shadow-lg"
+              loading="lazy"
             />
           </div>
         </div>

@@ -39,6 +39,7 @@ const Section4 = () => {
               className="w-full h-auto"
               alt="EVSection2.2"
               src="/Features2.2Image.png"
+              loading="lazy"
             />
           </div>
         </div>
