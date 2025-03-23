@@ -91,7 +91,7 @@ const Section10 = () => {
                       <div className="rounded-none h-86 overflow-hidden p-5 lg:p-0">
                         <img
                           alt="content"
-                          className="object-cover object-center h-full aspect-auto w-96"
+                          className="object-cover object-center h-full aspect-square w-96 "
                           src={`/${img}`}
                         />
                         <h4 className="text-white text-lg font-light my-5">Lorem Ipsum</h4>
